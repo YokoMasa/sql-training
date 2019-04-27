@@ -1,12 +1,10 @@
-sql練習
-
 ## redash
+- URL  
+[http://34.80.124.18/queries/new](http://34.80.124.18/queries/new)
 
-[リンク](http://34.80.124.18/queries/new)
-
-email: aaaa@gmail.com
-
-pass: sqltraining
+- ログイン情報  
+email: aaaa@gmail.com  
+pass: sqltraining  
 
 ## ERD
-![ERD](https://raw.githubusercontent.com/YokoMasa/sql-traning/master/erd.png)
+![ERD](https://raw.githubusercontent.com/YokoMasa/sql-traning/master/images/erd.png)
