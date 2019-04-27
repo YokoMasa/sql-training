@@ -16,5 +16,8 @@ pass: sqltraining
 - [問題](https://docs.google.com/spreadsheets/d/10pAkaKCH3D_nCUT9j6WJ8bxayk8LUCsUTB-JFigJ7CQ/edit?usp=sharing)  
 - [答え](https://github.com/YokoMasa/sql-traning/wiki/%E7%B7%B4%E7%BF%92%E5%95%8F%E9%A1%8C%E3%80%80%E7%AD%94%E3%81%88)  
 
+## 口頭試問問題
+準備中
+
 ## ERD
 ![ERD](https://raw.githubusercontent.com/YokoMasa/sql-traning/master/images/erd.png)
